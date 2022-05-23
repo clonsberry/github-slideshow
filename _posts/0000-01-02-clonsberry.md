@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-First, I would like to thank God.
+# I used to be an adventurer like you...
 Use the left arrow to go back!
